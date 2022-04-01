@@ -4,3 +4,7 @@
     padding: 25px;
     border-radius: 5px;
 }
+
+.console-output a.link {
+    color: #3498DB !important   
+}
