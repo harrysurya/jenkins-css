@@ -3,6 +3,7 @@
     color: #fff;
     padding: 25px;
     border-radius: 5px;
+    font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace;
 }
 
 .console-output a:link {
