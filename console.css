@@ -9,3 +9,7 @@
 .console-output a:link {
     color: #3498DB !important   
 }
+
+pre {
+    color: #f2f2f2 !important;
+}
