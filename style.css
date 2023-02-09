@@ -1,0 +1,11 @@
+.console-output {
+    background: #444;
+    color: #f2f2f2 !important;
+    padding: 25px;
+    border-radius: 5px;
+    font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace;
+}
+
+.console-output a:link {
+    color: #3498DB !important   
+}
