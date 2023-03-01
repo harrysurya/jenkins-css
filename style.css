@@ -4,8 +4,14 @@
     padding: 25px;
     border-radius: 5px;
     font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace !important;
+    font-size: 12px;
 }
 
 .console-output a:link {
     color: #3498DB !important   
+}
+
+@media (min-width: 1170px)
+body.two-column #side-panel {
+    width: 250px;
 }
