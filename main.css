@@ -10,7 +10,8 @@
     color: #3498DB !important   
 }
 
-@media (min-width: 1170px)
-body.two-column #side-panel {
-    width: 250px;
+@media (min-width: 1170px) {
+    body.two-column #side-panel {
+        width: 250px;
+    }
 }
